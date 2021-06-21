@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IGN-Styly
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me: suporte.lazar@gmail.com
