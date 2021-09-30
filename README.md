@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @IGN-Styly
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Web Development
+- 👀 I’m a Python developer
+- 🌱 I’m currently learning Web Development using Flask
+- ✨ Currently Working on my crypto currency
 - 📫 How to reach me: suporte.lazar@gmail.com
