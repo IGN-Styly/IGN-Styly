@@ -1,10 +1,7 @@
 
-
-Hello Hypixel Please shutdown your servers and wait until the 0 day gets fixed.
-
-
 - 👋 Hi, I’m @IGN-Styly
-- 👀 I’m a Python developer
-- 🌱 I’m currently learning Web Development using Flask
-- ✨ Currently Working on my crypto currency
+- 👀 I’m a Python and web developer
+- 🌱 I’m currently learning nextJS
+- ✨ Currently Working on my [Fireship Token](https://github.com/IGN-Styly/Fireship-Token)
 - 📫 How to reach me: suporte.lazar@gmail.com
+- I use Arch linux BTW
