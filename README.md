@@ -1,15 +1,16 @@
 
 # Hi, I’m @IGN-Styly
-- I customized [DWM](https://github.com/IGN-Styly/dwm) and [slock](https://github.com/empty-404/slock) for bloat removal on my OS
-- I use a custom Neovim client that i customized
+- I customized Hyprland for efficiency
+- I use Vscodium (we are all gonna die anyway why bother fancy neovim setup again)
 - I use Arch linux BTW
 - I can use git to colaborate with a team and more!
+- And i'm currently a student.
 ## My WorkFlow
 - Git
 - Neovim
-- dwm
-- dmenu
-- st
+- Vscodium
+- Hyprland
+- rofi
 - alacritty
 - Rust
 - Typescript  
