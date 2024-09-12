@@ -1,6 +1,6 @@
 
 # Hi, I’m @IGN-Styly
-I build cool shit. I am a student who plans on following Computer Science and Starting a startup oneday.
+I build cool shit. I am a student who plans on following Computer Science.
 
 ## My Abilities
 Typescript
@@ -12,6 +12,9 @@ Rust
 Java
 Rust
 ## Cool Shit im building
+### Grand Engineering
+A organisation i made for me to make cool projects under.
+Currently working on 3 projects StreamKit,Rusty assembly(RASM) and Engine a distributed computing kinda framework.
 ### Arcanus
 ![Arcanus](https://cdn.modrinth.com/data/cached_images/498cbdd240c1e62dbd65927a68c23e14daba18b9.png)
 A Minecraft mod that adds data based magic acessories allowing way too many posibilities.
